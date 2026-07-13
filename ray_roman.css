@@ -1,0 +1,182 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+    font-weight: lighter;
+}
+h1{
+    text-transform: uppercase;
+}
+main{
+    background-image: url(./assets/home1.jpg);
+    background-attachment: fixed;
+    height:650px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 1400px;
+}
+nav{
+    height: 120px;
+    /* width: 1335px; */
+    position: relative;
+    background-color: white;
+}
+nav>img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 4%;
+    top: 2%;
+}
+.d1{
+    position: absolute;
+    top: 15%;
+    left: 28%;
+}
+.d2{
+    position: absolute;
+    top: 15%;
+    left: 49%;
+}
+.d3{
+    position: absolute;
+    top: 15%;
+    left: 57%;
+}
+.d4{
+    position: absolute;
+    top: 15%;
+    left: 67%;
+}
+.d5{
+    position: absolute;
+    top: 15%;
+    left: 78%;
+}
+.d6{
+    position: absolute;
+    top: 15%;
+    left: 85%;
+}
+.d7{
+    position: absolute;
+    top: 15%;
+    left: 94%;
+}
+main>h1{
+    position: absolute;
+    left: 5%;
+    width: fit-content;
+    height: fit-content;
+    background-color: hsla(23, 25%, 94%, 0.56);
+    text-transform:uppercase;
+}
+main>article{
+    position: absolute;
+    left: 5%;
+    top: 35%;
+    text-transform:none;
+    background-color: hsla(23, 25%, 94%, 0.56)
+}
+
+section>div{
+    margin-left: 15%;
+    margin-top: 30px;
+    width: 900px;
+    height: 250px;
+}
+.t1{
+    height: 300px;
+}
+.t2{
+    height: 400px;
+}
+.m2{
+    background-image: url(./assets/home2.jpeg);
+    background-attachment: fixed;
+    height:650px;
+    position: relative;
+}
+.m2>h1{
+    position: absolute;
+    top: 15%;
+}
+.m3{
+    background-image: url(./assets/home3.jpg);
+}
+.m4{
+    background-image: url(./assets/home4.jpg);
+}
+.m5{
+    background-image: url(./assets/home5.jpg);
+}
+.s1{
+    height: 1000px;
+}
+h4{
+    text-align: center;
+}
+.g1{
+    height: 200px;
+    width: 300px;
+}
+.a1,.a2,.a3,.a4,.a5,.a6,.a7{
+    /* border: 2px solid; */
+    height: fit-content;
+    width: fit-content;
+}
+.a2{
+    margin-left: 41%;
+    margin-top: -20%;
+}
+.a3{
+    margin-left: 68%;
+    margin-top: -20%;
+}
+.a5{
+    margin-left: 41%;
+    margin-top: -20%;
+}
+.a6{
+    margin-left: 68%;
+    margin-top: -20%;
+}
+
+footer{
+    height: 150px;
+    background-color: rgb(48, 44, 44);
+    position: relative;
+    margin-top: -15%;
+}
+footer>img{
+    height: 50px;
+}
+.i1{
+    position: absolute;
+    left: 180px;
+    top: 50px;
+    border-radius: 40px;
+}
+.i2{
+    position: absolute;
+    left: 250px;
+    top: 50px;
+    border-radius: 40px;
+}
+.i3{
+    position: absolute;
+    left: 320px;
+    top: 50px;
+    border-radius: 40px;
+}
+.i4{
+    position: absolute;
+    left: 390px;
+    top: 50px;
+    border-radius: 40px;
+}
+footer>span{
+    color: white;
+    position: absolute;
+    left: 500px;
+    top: 50px;
+}
